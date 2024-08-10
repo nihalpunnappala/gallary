@@ -1,0 +1,129 @@
+*{
+margin: 0;
+padding: 0;
+font-family: "Open Sans", sans-serif;
+
+}
+
+header{
+
+    background-color: rgb(7, 6, 6);
+    color: rgb(232, 219, 219);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+    
+
+}
+
+header button{
+
+        width: 70px;
+        height: 40px;
+        border-radius: 10px;
+        
+       
+        
+}
+
+header button:hover{
+    background-color: rgb(54, 41, 240);
+    color: rgb(150, 21, 21);
+}
+
+.banner{
+    background-image: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res70/348000/348812-Santiago-Bernabeu-Stadium.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+
+    
+}
+
+
+section{
+
+    background-color: rgb(254, 249, 249);
+    padding-top: 10px;
+}
+
+.col img{
+    border-radius: 10px;
+    height: 200px;
+    width: 300px;
+    box-shadow: 2px 3px white;
+    
+
+}
+
+.col{
+
+    background-color: rgb(209, 150, 150);
+    border-radius: 10px;
+    width: 300px;
+    height: 350;
+    align-items: center;
+    margin : 10px;
+    padding:10px;
+    
+
+    
+    color: rgb(201, 29, 75);
+
+
+}
+
+
+
+.row{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    justify-content: space-around;
+    padding-top: 10px;
+    text-align: center;
+}
+
+h3:hover{
+    background-color: rgb(188, 200, 28);
+     
+}
+
+h1,h2{
+ color: rgb(23, 17, 17);
+
+ 
+ 
+}
+
+
+
+
+footer{
+    background-color: blue;
+}
+
+.container img {
+    
+    width: 300px;
+    height: 200px;
+ 
+    
+    border-radius: 10px;
+    
+    
+    
+    
+    
+   
+}  
+.container:hover{
+    color: aqua;
+}
+
+
+
+
+

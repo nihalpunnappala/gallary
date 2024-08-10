@@ -1,0 +1,122 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(140, 127, 88);
+    
+
+}
+
+header{
+    
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+header button{
+    border-radius: 1opx;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 80px;
+    height: 40px;
+    color: aqua;
+    
+    
+    
+}
+
+
+
+.banner{
+    background-image: url(https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2022/06/how-to-buy-apple-aapl-stocks-shares.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+
+section{
+    
+    
+    color: rgb(146, 9, 123);
+    text-align: center;
+    
+    
+
+}
+
+section button{
+    color: aqua;
+    background-color: black;
+    
+    
+}
+
+section button:hover{
+    background-color: rgb(134, 14, 14);
+}
+
+.row{
+    
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.col{
+
+    width: 500px;
+    height:900px;
+    border-radius: 10px;
+    align-items: center;
+    
+    
+
+
+}
+
+.col img{
+
+    border-radius: 10px;
+    width:300px;
+    height: 350px;
+    box-shadow: 2px 4px rgb(154, 123, 123);
+    border: solid rgb(228, 223, 234);
+    
+
+}
+
+section span{
+    color: blue;
+    font-size: 20px;
+}
+
+
+
+
+
+
+h2{
+    color: rgb(214, 250, 228);
+    padding: 20px;
+    margin-top: 2%;
+    text-align: center;
+    margin-left: 10px;
+    
+    
+    
+    
+}
+col{
+    background-color: azure;
+    width: 100%;
+    height: 30px;
+}
+
